@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "cupId": "tt3606756",
+    "title": "Os Incríveis 2",
+    "year": 2018,
+    "cupRate": 8.5
+  },
+  {
+    "id": 2,
+    "cupId": "tt4881806",
+    "title": "Jurassic World: Reino Ameaçado",
+    "year": 2018,
+    "cupRate": 6.7
+  },
+  {
+    "id": 3,
+    "cupId": "tt5164214",
+    "title": "Oito Mulheres e um Segredo",
+    "year": 2018,
+    "cupRate": 6.3
+  },
+  {
+    "id": 4,
+    "cupId": "tt7784604",
+    "title": "Hereditário",
+    "year": 2018,
+    "cupRate": 7.8
+  },
+  {
+    "id": 5,
+    "cupId": "tt4154756",
+    "title": "Vingadores: Guerra Infinita",
+    "year": 2018,
+    "cupRate": 8.8
+  },
+  {
+    "id": 6,
+    "cupId": "tt5463162",
+    "title": "Deadpool 2",
+    "year": 2018,
+    "cupRate": 8.1
+  },
+  {
+    "id": 7,
+    "cupId": "tt3778644",
+    "title": "Han Solo: Uma História Star Wars",
+    "year": 2018,
+    "cupRate": 7.2
+  },
+  {
+    "id": 8,
+    "cupId": "tt3501632",
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "cupRate": 7.9
+  },
+  {
+    "id": 9,
+    "cupId": "tt2854926",
+    "title": "Te Peguei!",
+    "year": 2018,
+    "cupRate": 7.1
+  },
+  {
+    "id": 10,
+    "cupId": "tt0317705",
+    "title": "Os Incríveis",
+    "year": 2004,
+    "cupRate": 8.0
+  },
+  {
+    "id": 11,
+    "cupId": "tt3799232",
+    "title": "A Barraca do Beijo",
+    "year": 2018,
+    "cupRate": 6.4
+  },
+  {
+    "id": 12,
+    "cupId": "tt1365519",
+    "title": "Tomb Raider: A Origem",
+    "year": 2018,
+    "cupRate": 6.5
+  },
+  {
+    "id": 13,
+    "cupId": "tt1825683",
+    "title": "Pantera Negra",
+    "year": 2018,
+    "cupRate": 7.5
+  },
+  {
+    "id": 14,
+    "cupId": "tt5834262",
+    "title": "Hotel Artemis",
+    "year": 2018,
+    "cupRate": 6.3
+  },
+  {
+    "id": 15,
+    "cupId": "tt7690670",
+    "title": "Superfly",
+    "year": 2018,
+    "cupRate": 5.1
+  },
+  {
+    "id": 16,
+    "cupId": "tt6499752",
+    "title": "Upgrade",
+    "year": 2018,
+    "cupRate": 7.8
+  }
+]
